@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kjcoderx
-- 👀 I’m interested in py, ts, nosql
+- 👀 I’m interested in py, ts, nosql, rust
 
 <!---
 kjcoderx/kjcoderx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
